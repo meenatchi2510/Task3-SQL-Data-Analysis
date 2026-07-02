@@ -33,8 +33,8 @@ A sample Ecommerce dataset containing:
 - Average Revenue Per User (ARPU)
 
 ## Repository Contents
-- `task3.sql` – Complete SQL script
-- `screenshots/` – Output screenshots
+- `Task3_Code.sql` – Complete SQL script
+- `Task3_screenshots/` – Output screenshots
 - `README.md` – Project documentation
 
 ## Outcome
